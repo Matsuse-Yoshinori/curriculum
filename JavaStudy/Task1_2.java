@@ -30,7 +30,7 @@ public class Task1_2 {
         strArray[1] = "もも";
         strArray[2] = "ぶどう";
         // ④ ③で作成した配列の2番目の要素を出力しなさい。
-        System.out.println(strArray[2]);
+        System.out.println(strArray[1]);
         /* ⑤下記の処理について、何をしているのかコメントを記入してください。
          *  Int型のarray配列の定義
          */
